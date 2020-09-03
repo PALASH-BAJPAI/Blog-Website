@@ -1,0 +1,2 @@
+This is made with ejs.
+To add post localhost:3000/compose
